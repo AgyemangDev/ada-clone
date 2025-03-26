@@ -46,17 +46,12 @@ const SymptomChecker = () => {
     "Chest Pain",
     "Shortness of Breath",
     "Abdominal Pain",
-    "Sore Throat",
-    "Tremors",
-    "Muscle Weakness",
-    "Uncontrollable Movements",
-    "Burning Sensation During Urination",
-    "Cloudy Urine",
-    "Strong-Smelling Urine",
-    "Pelvic Pain",
-    "Jaundice",
-    "Dark Urine",
-    "Light Stools"
+    "Itching",
+    "Weight Loss",
+    "Swelling/Edema",
+    "Painful Urination",
+    "Skin Rash",
+    "Changes in Bowel Habits"
   ];
 
   // Update input when speech recognition provides a transcript
